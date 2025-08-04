@@ -1,0 +1,17 @@
+/* حالت تاریک */
+body.dark {
+  background-color : #121212 ;
+  color : #f1f1f1 ;
+}
+
+/*دکمه در حالت تاریک  */
+body.dark .btn {
+  background-color : #f1f1f1 ;
+  color : #121212 ;
+}
+
+/* کارت در حالت تاریک */
+body.dark .card {
+  background-color : #1e1e1e ;
+  color : #f1f1f1 ;
+}
